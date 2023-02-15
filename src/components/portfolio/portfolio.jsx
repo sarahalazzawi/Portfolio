@@ -29,8 +29,8 @@ const portfolio = () => {
 </div>
 <h3>   Shopping Cart</h3>
 <div className='portfolio__item-cta'>
-<a  href='https://github.com/sarahalazzawi/memory-game-' className='btn'  target='_blank'>Github</a>
-<a  href='https://github.com' className='btn btn-primary'  target='_blank' >Live Demo</a>
+<a  href='https://github.com/sarahalazzawi/Shopping-Cart' className='btn'  target='_blank'>Github</a>
+<a  href='https://cool-kitten-c6c6d2.netlify.app' className='btn btn-primary'  target='_blank' >Live Demo</a>
 </div>
 </article>
 <article   className='portfolio__item'>
@@ -49,8 +49,8 @@ const portfolio = () => {
 </div>
 <h3> EFZ  Energy für zukunft </h3>
 <div className='portfolio__item-cta'>
-<a  href='https://github.com/sarahalazzawi/memory-game-' className='btn'  target='_blank'>Github</a>
-<a  href='https://aquamarine-malasada-6792f2.netlify.app/' className='btn btn-primary'  target='_blank' >Live Demo</a>
+<a  href='https://github.com/sarahalazzawi/Energy-Webseit' className='btn'  target='_blank'>Github</a>
+<a  href='https://cozy-beijinho-2e0df3.netlify.app' className='btn btn-primary'  target='_blank' >Live Demo</a>
 </div>
 
 </article>
